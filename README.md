@@ -1,6 +1,18 @@
 # my-things-to-do
 Just a rambling list of projects and things for my personal record.
 
+TOP:
+Finish Shop site - DONE
+
+
+Learn Basic 3d modelling via tutorials
+
+Read:
+https://www.sciencedirect.com/science/article/abs/pii/S016975529800110X
+
+- Homepage blog with to watch/read schedule
+
+
 - Deployed my React/Vite CV Building page at Netly (After a lot of errors...)
 http://super-heavy-ballet.com/
 
