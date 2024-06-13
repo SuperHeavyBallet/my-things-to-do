@@ -31,4 +31,5 @@ http://super-heavy-ballet.com/
 - Plan Ideation Database Webpage
 - Read more into Embedded
 - Update Algebra
-- Update Calcuus
+- Update Calculus
+- Make Youtube/IG Video downloader
