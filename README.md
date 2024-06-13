@@ -27,5 +27,7 @@ http://super-heavy-ballet.com/
 
 - Continue TOP
 
-- - Plan Ziva catalogue webpage
--- Plan Ideation Database Webpage
+- Plan Ziva catalogue webpage
+- Plan Ideation Database Webpage
+- Read more into Embedded
+- Update Algebra
