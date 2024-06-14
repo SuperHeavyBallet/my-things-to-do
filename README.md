@@ -33,3 +33,4 @@ http://super-heavy-ballet.com/
 - Update Algebra
 - Update Calculus
 - Make Youtube/IG Video downloader
+- Learn Servers and REST
