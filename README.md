@@ -4,6 +4,19 @@ Just a rambling list of projects and things for my personal record.
 TOP:
 Finish Shop site - DONE
 
+//React
+- Study useMemo
+- Study useRef
+- study useCallback
+
+- Links:
+- https://kentcdodds.com/blog/usememo-and-usecallback
+- https://react.dev/reference/react/useRef
+- https://meje.dev/blog/useref-not-queryselector
+- https://overreacted.io/making-setinterval-declarative-with-react-hooks/
+- -https://github.com/reactjs/rfcs
+- https://www.patterns.dev/
+
 
 Learn Basic 3d modelling via tutorials
 
