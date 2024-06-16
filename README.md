@@ -30,7 +30,7 @@ http://super-heavy-ballet.com/
 - Plan Ziva catalogue webpage
 - Plan Ideation Database Webpage
 - Read more into Embedded
-- Update Algebra
+- Update Algebra - in progress
 - Update Calculus
 - Make Youtube/IG Video downloader
 - -- Chat GPT Description
