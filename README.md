@@ -40,7 +40,9 @@ http://super-heavy-ballet.com/
 
 - Continue TOP
 - 
-
+- Pub Crawler app - find nearby pubs and plan route from pub to pub
+- Sports Club locator app:
+- - Sport type, Club Location, Entry requirements, size, affiliations etc
 - Think of some sort of topic organizer for Sport Computer Use, SWE Computer Use etc, focused study topics
 - Plan Ziva catalogue webpage
 - Plan Ideation Database Webpage
