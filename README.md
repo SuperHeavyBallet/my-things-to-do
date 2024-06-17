@@ -39,7 +39,9 @@ http://super-heavy-ballet.com/
 - Utilise call from API db of words
 
 - Continue TOP
+- 
 
+- Think of some sort of topic organizer for Sport Computer Use, SWE Computer Use etc, focused study topics
 - Plan Ziva catalogue webpage
 - Plan Ideation Database Webpage
 - Read more into Embedded
