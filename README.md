@@ -20,6 +20,9 @@ Finish Shop site - DONE
 
 Learn Basic 3d modelling via tutorials
 
+Game Ideas:
+- Platformer from aesthetic https://youtu.be/41V29jdzuCI
+
 Read:
 https://www.sciencedirect.com/science/article/abs/pii/S016975529800110X
 
