@@ -22,6 +22,7 @@ Learn Basic 3d modelling via tutorials
 
 Game Ideas:
 - Platformer from aesthetic https://youtu.be/41V29jdzuCI
+- -^ Platformer, platforms as floating islands (ala Laputa) grassy top, rocky earth bottoms, add rocks etc falling from bottom on player landing/moving/jumping
 
 Read:
 https://www.sciencedirect.com/science/article/abs/pii/S016975529800110X
