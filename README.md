@@ -17,6 +17,9 @@ Finish Shop site - DONE
 - -https://github.com/reactjs/rfcs
 - https://www.patterns.dev/
 
+- -Sports
+- https://www.verkhoshansky.com/LinkClick.aspx?fileticket=ru7JCrUqraM%3D&tabid=80&mid=426
+
 
 Learn Basic 3d modelling via tutorials
 
