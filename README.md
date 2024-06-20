@@ -19,6 +19,7 @@ Finish Shop site - DONE
 
 - -Sports
 - https://www.verkhoshansky.com/LinkClick.aspx?fileticket=ru7JCrUqraM%3D&tabid=80&mid=426
+- Write script explaining the 'Conjugate Method' or more precisely, the components in programming/periodization behind them.
 
 
 Learn Basic 3d modelling via tutorials
