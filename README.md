@@ -1,22 +1,22 @@
 # my-things-to-do
 *Just a rambling list of projects and things for my personal record.*
 
-# Programming
-Finish Shop site - DONE
-*// React:*
-- Study useMemo
-- Study useRef
-- study useCallback
-*// Links:*
+# To-Read
 - https://kentcdodds.com/blog/usememo-and-usecallback
 - https://react.dev/reference/react/useRef
 - https://meje.dev/blog/useref-not-queryselector
 - https://overreacted.io/making-setinterval-declarative-with-react-hooks/
-- -https://github.com/reactjs/rfcs
+- https://github.com/reactjs/rfcs
 - https://www.patterns.dev/
+- https://www.sciencedirect.com/science/article/abs/pii/S016975529800110X <-Anatomy of a large scale search engine
+
+# Programming
+- Study useMemo
+- Study useRef
+- study useCallback
 - Homepage blog with to watch/read schedule
 - Deployed my React/Vite CV Building page at Netly (After a lot of errors...) => http://super-heavy-ballet.com/
-- - Expand Ready Go to ReactNative/Mobile Deployment
+- Expand Ready Go to ReactNative/Mobile Deployment
 - Design AWA site
 - Build AWA Site
 - Deploy AWA Site
@@ -27,11 +27,10 @@ Finish Shop site - DONE
 - Sports Club locator app:
 - - Sport type, Club Location, Entry requirements, size, affiliations etc
   - Organise inter-club meet ups/competitions
-  - 
 - Think of some sort of topic organizer for Sport Computer Use, SWE Computer Use etc, focused study topics
 - Plan Ziva catalogue webpage
 - Plan Ideation Database Webpage
-- - Read more into Embedded
+- Read more into Embedded
 - Update Algebra - in progress
 - Update Calculus
 - Learn Servers and REST
@@ -47,18 +46,7 @@ Learn Basic 3d modelling via tutorials
 - Platformer from aesthetic https://youtu.be/41V29jdzuCI
 - -^ Platformer, platforms as floating islands (ala Laputa) grassy top, rocky earth bottoms, add rocks etc falling from bottom on player landing/moving/jumping
 
-# Read:
-https://www.sciencedirect.com/science/article/abs/pii/S016975529800110X <-Anatomy of a large scale search engine
-
-
-
-
-
-
-
-- 
-
-- Make Youtube/IG Video downloader
+# Make Youtube/IG Video downloader
 - -- Chat GPT Description
 - //////////////////////////////////////////////////////////////////////
 - Sure! Here’s a high-level description of how a web application for retrieving and downloading video files from websites like YouTube works:
