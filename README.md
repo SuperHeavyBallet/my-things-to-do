@@ -47,7 +47,8 @@ Learn Basic 3d modelling via tutorials
 - -^ Platformer, platforms as floating islands (ala Laputa) grassy top, rocky earth bottoms, add rocks etc falling from bottom on player landing/moving/jumping
 
 # Reference Links
--https://youtu.be/H69whKzV3wQ <= Armoured Feet and shins
+- https://youtu.be/H69whKzV3wQ <= Armoured Feet and shins
+- https://youtu.be/MnVWTuGMBHw <= Armour in motion
 
 # Make Youtube/IG Video downloader
 - -- Chat GPT Description
