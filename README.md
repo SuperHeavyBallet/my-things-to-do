@@ -28,7 +28,9 @@
 - - Sport type, Club Location, Entry requirements, size, affiliations etc
   - Organise inter-club meet ups/competitions
 - Think of some sort of topic organizer for Sport Computer Use, SWE Computer Use etc, focused study topics
-- Plan Ziva catalogue webpage
+- 
+- Plan Ziva catalogue webpage <================================================ Current
+- 
 - Plan Ideation Database Webpage
 - Read more into Embedded
 - Update Algebra - in progress
