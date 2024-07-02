@@ -11,6 +11,7 @@
 - https://www.sciencedirect.com/science/article/abs/pii/S016975529800110X <-Anatomy of a large scale search engine
 
 # Programming
+- Desktop(?) "AI" assistant to present websites etc that you add to a list of Bookmarks, keeping the website more fresh in mind. With Chrome Bookmarks etc I often bookmark and then forget and never see them again until I clean out bookmarks.
 - Study useMemo
 - Study useRef
 - study useCallback
