@@ -51,6 +51,7 @@ Learn Basic 3d modelling via tutorials
 - -^ Platformer, platforms as floating islands (ala Laputa) grassy top, rocky earth bottoms, add rocks etc falling from bottom on player landing/moving/jumping
 - - 'Willowing Widow' - Creature, tree base with female human torso/upper. Lady mourning loss of husband, ran to the woods and sat crying for so long a tree grew around her.
   - Crustacean King - Old Sea warrior lord, aged to the point of sea wildlife growing through him, large crab like shells across his back and head
+  - Robot Crow - https://www.youtube.com/shorts/QmaNBj20jcw?feature=share
 
 # Reference Links
 - https://youtu.be/H69whKzV3wQ <= Armoured Feet and shins
