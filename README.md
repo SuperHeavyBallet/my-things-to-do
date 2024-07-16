@@ -28,11 +28,8 @@
 - Sports Club locator app:
 - - Sport type, Club Location, Entry requirements, size, affiliations etc
   - Organise inter-club meet ups/competitions
-- Think of some sort of topic organizer for Sport Computer Use, SWE Computer Use etc, focused study topics
-- 
-- Plan Ziva catalogue webpage <================================================ Current
-- 
-- Plan Ideation Database Webpage
+- Think of some sort of topic organizer for Sport Computer Use, SWE Computer Use etc, focused study topic
+- Plan Ideation Database Webpage - An open source website to collect sketches and ideas for inspiration to artists, writers, etc
 - Read more into Embedded
 - Update Algebra - in progress
 - Update Calculus
@@ -43,13 +40,14 @@
 - Write script explaining the 'Conjugate Method' or more precisely, the components in programming/periodization behind them.
 - Write script on Shock Method for upper body
 - Write script "How To Get Brutally Strong for Armwrestling (Not for Beginners)"
+- Write Script "How to train Biceps for Armwrestling"
 
 # Video Game
 Learn Basic 3d modelling via tutorials
 *//Game Ideas:*
 - Platformer from aesthetic https://youtu.be/41V29jdzuCI
 - -^ Platformer, platforms as floating islands (ala Laputa) grassy top, rocky earth bottoms, add rocks etc falling from bottom on player landing/moving/jumping
-
+- Remake Space Munchers with more content
 
 # Reference Links
 - https://youtu.be/H69whKzV3wQ <= Armoured Feet and shins
