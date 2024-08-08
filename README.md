@@ -35,6 +35,7 @@
 - Update Calculus
 - Learn Servers and REST
 - A collection pool with bubbling to top of unreads > Studies dumping ground
+- - Database to store links to studies, scrape study text and feed to ChatGPT API for summarisation of Study > Return Summarisation to page content
 
 # Sports
 - https://www.verkhoshansky.com/LinkClick.aspx?fileticket=ru7JCrUqraM%3D&tabid=80&mid=426
