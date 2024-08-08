@@ -34,6 +34,7 @@
 - Update Algebra - in progress
 - Update Calculus
 - Learn Servers and REST
+- A collection pool with bubbling to top of unreads > Studies dumping ground
 
 # Sports
 - https://www.verkhoshansky.com/LinkClick.aspx?fileticket=ru7JCrUqraM%3D&tabid=80&mid=426
