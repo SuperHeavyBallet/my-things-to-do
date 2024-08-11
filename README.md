@@ -43,6 +43,7 @@
 - Write script on Shock Method for upper body
 - Write script "How To Get Brutally Strong for Armwrestling (Not for Beginners)"
 - Write Script "How to train Biceps for Armwrestling"
+- Write Script "What is Side Pressure?"
 
 # Video Game
 Learn Basic 3d modelling via tutorials
